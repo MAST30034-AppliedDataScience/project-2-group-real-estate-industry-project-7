@@ -8,9 +8,9 @@ The real estate industry is highly dynamic, with rental prices influenced by a w
 
 ## Project Overview
 
-1. Scrape rental property data and internal attributes (e.g., number of bedrooms, land size, car park spots) from (Domain)[http://domain.com.au] use Domain API.
+1. Scrape rental property data and internal attributes (e.g., number of bedrooms, land size, car park spots) from [Domain](http://domain.com.au) use Domain API.
 2. Incorporate external variables such as population demographics (e.g., population growth and affluence in SA2 districts), use Statistical Areas Level 2 (SA2) to derive population forecast and affluence.
-3. Use (OpenRouteService)[https://openrouteservice.org/] API to find proximity to train stations, closest schools and CBD.
+3. Use [OpenRouteService](https://openrouteservice.org/) API to find proximity to train stations, closest schools and CBD.
 4. Identify the most important internal and external features in predicting rental prices.
 5. Identify the most liveable and affordable suburbs
 6. Use machine learning models to predict rental prices and find top 10 suburbs with the highest predicted growth rate.
