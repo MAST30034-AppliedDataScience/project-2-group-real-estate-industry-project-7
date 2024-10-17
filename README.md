@@ -43,11 +43,11 @@ To successfully run the project, follow these steps in order:
 
 ## Summary of Results
 
-Please navigate to the 'plots' folder
+Please navigate to the `plots` folder
 
 1. Top 5 suburbs with the highest rental growth rate (Linear Regression Model): `top5_LR_plot.png`
-1. Top 5 suburbs with the highest rental growth rate (Random Forest Model): `top5_RF_plot.png`
-2. Most livable suburb: `liveable_3981.png`
-3. Victoria map with livable index: `livable.png`
-4. External influencers of rental price: `external_feature_correlations.png`
-5. Internal influencers of rental price: `internal_feature_correlations.png`
+2. Top 5 suburbs with the highest rental growth rate (Random Forest Model): `top5_RF_plot.png`
+3. Most livable suburb: `liveable_3981.png`
+4. Victoria map with livable index: `livable.png`
+5. External influencers of rental price: `external_feature_correlations.png`
+6. Internal influencers of rental price: `internal_feature_correlations.png`
