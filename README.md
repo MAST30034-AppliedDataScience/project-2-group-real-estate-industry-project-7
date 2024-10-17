@@ -2,6 +2,13 @@
 
 This project aims to predict rental prices for residential properties and apartments throughout Victoria, Australia, using both internal and external variables. The goal is to help an online real estate company determine appropriate rental prices and identify properties with the potential for rental price growth over the next five years.
 
+## Industry Project Group 7 
+Boheng Duan: 1213840
+Linjia Zhang: 1249868
+Xi Yang: 1346869
+Yipei Liu: 1346503
+Yaqi Zhang: 1346482
+
 ## Introduction
 
 The real estate industry is highly dynamic, with rental prices influenced by a wide range of internal and external factors. This project explores how attributes such as property features (e.g., number of bedrooms, car spaces, land size) and geospatial attributes (e.g., proximity to schools, train stations, parks) impact rental prices in Victoria, Australia. The primary objective is to build predictive models that can estimate rental prices and provide insights on potential price increases in the near future.
@@ -15,7 +22,12 @@ The real estate industry is highly dynamic, with rental prices influenced by a w
 5. Identify the most liveable and affordable suburbs
 6. Use machine learning models to predict rental prices and find top 10 suburbs with the highest predicted growth rate.
 
+
 ## Running the Project
+
+**PLEASE RUN THE FOLLOWING COMMAND IN COMMAND WINDOW**
+<span style="color:red">pip install -r requirements.txt</span>
+
 
 To successfully run the project, follow these steps in order:
 
