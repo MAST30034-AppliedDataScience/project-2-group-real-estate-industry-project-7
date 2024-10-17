@@ -34,6 +34,7 @@ The real estate industry is highly dynamic, with rental prices influenced by a w
 **<span style="color:red">pip install -r requirements.txt</span>**
 
 
+
 To successfully run the project, follow these steps in order:
 
 1. **Data Collection**
