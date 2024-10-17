@@ -4,9 +4,13 @@ This project aims to predict rental prices for residential properties and apartm
 
 ## Industry Project Group 7 
 Boheng Duan: 1213840
+
 Linjia Zhang: 1249868
+
 Xi Yang: 1346869
+
 Yipei Liu: 1346503
+
 Yaqi Zhang: 1346482
 
 ## Introduction
