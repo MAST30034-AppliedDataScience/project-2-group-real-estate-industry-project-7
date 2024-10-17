@@ -38,5 +38,16 @@ To successfully run the project, follow these steps in order:
 
 4. **Modeling**
 
-   - Run **TO BE UPDATE** to get datasets for model fitting.
+   - Run `feature_selection.ipynb` to get datasets for model fitting.
    - Run `models/model.ipynb` to fit the models and find top 10 suburbs with the highest predicted growth rate.
+
+## Summary of Results
+
+Please navigate to the 'plots' folder
+
+1. Top 5 suburbs with the highest rental growth rate (Linear Regression Model): `top5_LR_plot.png`
+1. Top 5 suburbs with the highest rental growth rate (Random Forest Model): `top5_RF_plot.png`
+2. Most livable suburb: `liveable_3981.png`
+3. Victoria map with livable index: `livable.png`
+4. External influencers of rental price: `external_feature_correlations.png`
+5. Internal influencers of rental price: `internal_feature_correlations.png`
