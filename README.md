@@ -44,7 +44,7 @@ To successfully run the project, follow these steps in order:
 2. **Data Preprocessing**
 
    - Next, execute the `external_data_process.ipynb` and `internal_data_process.ipynb` notebooks to clean and prepare the data for modeling. This ensures that all datasets are properly formatted and that any missing values are addressed.
-   - Then, run the `openrouteservice_school.ipynb` and `distance_to_CBD_train.ipynb` notebooks to calculate proximity to train stations, the closest schools, and the CBD. \_(Note: This step may also require significant time from ORS; alternatively, you can use the data directly from `rent_with_proximity.csv` and `dist_dur_to_cbd.csv`)
+   - Then, run the `openrouteservice_school.ipynb` and `distance_to_CBD_train.ipynb` notebooks to calculate proximity to train stations, the closest schools, and the CBD. _(Note: This step may also require significant time from ORS; alternatively, you can use the data directly from `rent_with_proximity.csv` and `dist_dur_to_cbd.csv`)_
    - To visualize the geospatial distribution of the scraped rental properties, you can run `geolocation_properties.ipynb`.
    - To utilize Statistical Areas Level 2 (SA2) for deriving population forecasts and affluence metrics, run `affluence.ipynb` and `population_forecast.ipynb`.
    - Finally, to ensure we can match the internal and external datasets for future analysis, run `add_postcode.ipynb` to add postcodes to the corresponding datasets.
