@@ -57,7 +57,7 @@ To successfully run the project, follow these steps in order:
 4. **Modeling**
 
    - Run `feature_selection.ipynb` to get datasets for model fitting.
-   - Run `models/model.ipynb` to fit the models and find top 10 suburbs with the highest predicted growth rate.
+   - Run `model.ipynb` to fit the models and find top 10 suburbs with the highest predicted growth rate.
 
 ## Summary of Results
 
